@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|c:\\users\\souqprocare\\desktop\\inhive-investing-main\\inhive\\customemessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\customemessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\buystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\buystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\buystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\buystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\customemessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\customemessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\inhive\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519A51B-0DEC-4AED-B5CD-C331B3DC335D}|INhive\\INhive.csproj|solutionrelative:inhive\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Login.cs",
+              "RelativeDocumentMoniker": "INhive\\Login.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Login.cs [Design]",
+              "RelativeToolTip": "INhive\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Admin.cs",
+              "RelativeDocumentMoniker": "INhive\\Admin.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Admin.cs [Design]",
+              "RelativeToolTip": "INhive\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomeMessageBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\CustomeMessageBox.cs",
+              "RelativeDocumentMoniker": "INhive\\CustomeMessageBox.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\CustomeMessageBox.cs [Design]",
+              "RelativeToolTip": "INhive\\CustomeMessageBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\DashBoard.cs",
+              "RelativeDocumentMoniker": "INhive\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\DashBoard.cs [Design]",
+              "RelativeToolTip": "INhive\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Home.cs",
+              "RelativeDocumentMoniker": "INhive\\Home.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Home.cs [Design]",
+              "RelativeToolTip": "INhive\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Explore.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Explore.cs",
+              "RelativeDocumentMoniker": "INhive\\Explore.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Explore.cs [Design]",
+              "RelativeToolTip": "INhive\\Explore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomeMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\CustomeMessageBox.cs",
+              "RelativeDocumentMoniker": "INhive\\CustomeMessageBox.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\CustomeMessageBox.cs",
+              "RelativeToolTip": "INhive\\CustomeMessageBox.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAnwJgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stocks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Stocks.cs",
+              "RelativeDocumentMoniker": "INhive\\Stocks.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Stocks.cs [Design]",
+              "RelativeToolTip": "INhive\\Stocks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuyStock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\BuyStock.cs",
+              "RelativeDocumentMoniker": "INhive\\BuyStock.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\BuyStock.cs [Design]",
+              "RelativeToolTip": "INhive\\BuyStock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\StockData.cs",
+              "RelativeDocumentMoniker": "INhive\\StockData.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\StockData.cs [Design]*",
+              "RelativeToolTip": "INhive\\StockData.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Register.cs",
+              "RelativeDocumentMoniker": "INhive\\Register.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Register.cs [Design]",
+              "RelativeToolTip": "INhive\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.382Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Payment.cs",
+              "RelativeDocumentMoniker": "INhive\\Payment.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Payment.cs [Design]",
+              "RelativeToolTip": "INhive\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Program.cs",
+              "RelativeDocumentMoniker": "INhive\\Program.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Program.cs",
+              "RelativeToolTip": "INhive\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:56.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Payment.cs",
+              "RelativeDocumentMoniker": "INhive\\Payment.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Payment.cs",
+              "RelativeToolTip": "INhive\\Payment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4v18AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Login.cs",
+              "RelativeDocumentMoniker": "INhive\\Login.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Login.cs",
+              "RelativeToolTip": "INhive\\Login.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA+wCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Register.cs",
+              "RelativeDocumentMoniker": "INhive\\Register.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Register.cs",
+              "RelativeToolTip": "INhive\\Register.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuyStock.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\BuyStock.cs",
+              "RelativeDocumentMoniker": "INhive\\BuyStock.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\BuyStock.cs",
+              "RelativeToolTip": "INhive\\BuyStock.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAnwHYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\DashBoard.cs",
+              "RelativeDocumentMoniker": "INhive\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\DashBoard.cs",
+              "RelativeToolTip": "INhive\\DashBoard.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAArwFwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Explore.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Explore.cs",
+              "RelativeDocumentMoniker": "INhive\\Explore.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Explore.cs",
+              "RelativeToolTip": "INhive\\Explore.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswDkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockData.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\StockData.cs",
+              "RelativeDocumentMoniker": "INhive\\StockData.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\StockData.cs*",
+              "RelativeToolTip": "INhive\\StockData.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stocks.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Stocks.cs",
+              "RelativeDocumentMoniker": "INhive\\Stocks.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Stocks.cs",
+              "RelativeToolTip": "INhive\\Stocks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Home.cs",
+              "RelativeDocumentMoniker": "INhive\\Home.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Home.cs",
+              "RelativeToolTip": "INhive\\Home.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Admin.cs",
+              "RelativeDocumentMoniker": "INhive\\Admin.cs",
+              "ToolTip": "C:\\Users\\SouqProcare\\Desktop\\INhive-investing-main\\INhive\\Admin.cs",
+              "RelativeToolTip": "INhive\\Admin.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAApwKcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:02:58.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
